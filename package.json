@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  },
+  "name": "cs-currency-convo",
+  "description": "npm package for currency converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekranjansahoo/cs-currency-convo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Vivek Ranjan Sahoo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vivekranjansahoo/cs-currency-convo/issues"
+  },
+  "homepage": "https://github.com/vivekranjansahoo/cs-currency-convo#readme"
+}
